@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% load static %}
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body> 
+    <img id="logo" src="{% static 'img/logo.png' %}" alt="">
+    <img src="{% static 'img/xoxlt.png' %}" alt="" id="xn">
+    <p id="KTP">
+    Каждой твари <br> по паре.   </p>
+    <img src="{% static 'img/xoxrt.png' %}" alt="" id="xr">
+    <p id="podpis">Самый иновационный сайт знакомств.</p>
+    <a class="a" href="{% url 'loginPage' %}"><img src="{% static 'img/bxod.png' %}" alt="" id="bxod">    
+    </a><p id = "exit">ВОЙТИ</p>
+    <a class="a" href="{% url 'regPage' %}"> <img src="{% static 'img/start1.png' %}" alt="" id="bxod1">    
+    </a><p id = "exit1">НАЧАТЬ</p>
+    <p id="obshe">Общение – это необходимая составляющая отношений. Испытай весь<br> спектр положительных эмоций на нашем сайте знакомств.</p>
+    <img src="{% static 'img/logo2.png' %}" alt="" id="logo2">
+    <img src="{% static 'img/line.png' %}" alt="" id="line">
+    <u>
+        <li id="li1">  Безопасность - на нашем сайте вы можете чувствовать<br> себя как у родного очага.</li>
+        <li id="li2">Удобство - прекрасный дизайн и интуитивно понятный <br> интерфейс приходятся кстати.
+        </li>
+        <li id="li3">Отечественная группа разработчиков.
+        </li>
+        <li id="li4">Удобство - прекрасный дизайн и интуитивно понятный <br>интерфейс приходятся кстати.
+        </li>
+    </u>
+        <img src="{% static 'img/xox3.png' %}" alt="" id="xox3">
+        <p id="pop">Популярные отзывы:</p>
+        <div id="petr1"><img src="{% static 'img/otziv.png' %}" alt="" id="petr">
+    <img src="{% static 'img/xox4.png' %}" alt="" id="xox4">
+     </div>
+     <div id="flooter">
+        <p id="flooter_text">® 2023 Серое Вещество | Веб-дизайн, создание сайтов.<br>
+            Копирование материалов без согласия авторов запрщено.</p>
+            <img src="{% static 'img/vk.png' %}" alt="" id="vk">
+            <img src="{% static 'img/tiner.png' %}" alt="" id="tiner">
+     </div>
+</body>
+</html>

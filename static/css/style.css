@@ -1,0 +1,165 @@
+body{
+  background-color: black;
+  text-align: justify;
+}
+#logo{
+  
+  width: 15%;
+  height: 15%;
+  margin-left: 7%;
+ margin-top: 4%;
+ 
+}
+#KTP{
+  text-align: left;
+  font-family: "TriodPostnaja";
+  color: rgb(246, 202, 88);
+  margin-left: 18%;
+  font-size: 550%;
+  margin-top: 5%;
+  text-shadow: 0px 6px 5.12px rgba(246, 202, 88, 0.22);
+}
+#podpis{
+  font-family: "TriodPostnaja";
+  color: rgb(246, 202, 88);
+  margin-left: 18%;
+  font-size: 250%;
+  margin-top: -5%;
+  text-shadow: 0px 6px 5.12px rgba(246, 202, 88, 0.22);
+}
+#xn{
+  position: absolute;
+  margin-left: 17%;
+  width: 60%;
+}
+#xr{
+  position: absolute;
+  margin-right: 50%;
+  width: 20% ;
+  height: 160%;
+  margin-top: -16%;
+  
+}
+#bxod{
+  margin-left: 15.3%;
+  width: 30%;
+}
+#exit{
+  margin-left: 26%;
+  margin-top: -8.3%;
+  font-family: "zarubkaType";
+  font-size: 275%;
+}
+#bxod1{
+  margin-left: 47%;
+  width: 26%;
+  margin-top: -10%;
+  float: left;
+}
+#exit1{
+  color: rgb(246, 202, 88);
+  margin-left: 55%;
+  margin-top: -7.5%;
+  font-family: "zarubkaType";
+  font-size: 275%;
+}
+
+#obshe{
+  color: rgb(246, 202, 88);
+  margin-top: 18%;
+  margin-left: 35%;
+  font-size: 150%;
+  font-family: "CyrillicOldFace";
+  
+}
+#logo2{
+  margin-top: -7%;
+  margin-left: 26%;
+  float: left;
+  width: 7%;
+  
+}
+#line{
+  width: 75%;
+  margin-top: 2%;
+  margin-left: 24%;
+}
+li{
+  font-family: "AmalteaTwo";
+  color: rgb(246, 202, 88);
+  margin-left: 26%; 
+  margin-top: 3%;
+  font-size: 160%;
+}
+#li1{
+  margin-top: -2%;
+}
+#xox3{
+  position: absolute;
+  margin-left: 84%;
+  width: 15%;
+  margin-top: -20%;
+}
+#pop{
+  font-family: "CyrillicOldFace";
+  font-size: 260%;
+  color: rgb(246, 202, 88);
+  
+  text-align: center;
+  margin-top: 20%;
+}
+
+#petr1{
+  width: 15%;
+  height: 160%;
+  margin-left: 20%;
+  border-width: 5%;
+  
+  border-color: rgb(218, 184, 95);
+  
+}
+#petr{
+  margin-left: -15%;
+  width: 500%;
+}
+#petr_text{
+  color: rgb(246, 202, 88);
+  font-family: "TriodPostnaja";
+}
+
+#xox4{
+  position: absolute;
+  margin-right: 75%;
+  width: 25%;
+  margin-left: -20%; 
+  margin-bottom: 0%;
+  margin-top: -20%;
+}
+#flooter{
+  background-color:rgb(246, 202, 88) ;
+  margin: 0;
+  height: 42%;
+  margin-top: 12.6%;
+  margin-bottom: -40%;
+  margin-left: -1%;
+padding: auto;
+ width: 101.6%;
+}
+#flooter_text{
+  font-size: 130%;
+  padding: 4% 4% 4% 4%;
+  text-align: center;
+  font-family: "TriodPostnaja";
+}
+#vk{
+  position: absolute;
+  margin-left: 78%;
+  margin-top: -11%;
+}
+
+#tiner{
+  position: absolute;
+  margin-left: 19%;
+  margin-top: -10%;
+}
+ 
